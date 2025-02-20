@@ -39,7 +39,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jama-ahmed-343038335/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" alt="Gmail" /></a>
+  <a href="mailto:jama.ahmed7979@gmail.com
+"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" alt="Gmail" /></a>
 </p>
 
 ---
